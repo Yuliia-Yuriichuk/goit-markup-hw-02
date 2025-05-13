@@ -45,6 +45,13 @@ text-align: center;
 letter-spacing: 0,02em;
 
 }
+.hero-title{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
 .hero-btn {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
@@ -80,6 +87,7 @@ letter-spacing: 0,02em;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #F4F4FD;
 }
 .team-list {
     background-color: #FFFFFF;
@@ -105,6 +113,7 @@ letter-spacing: 0,02em;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #F4F4FD
 }
 .portfolio-name {
     font-weight: 500;
@@ -129,12 +138,11 @@ letter-spacing: 0,02em;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+color: #4d5ae5;
 }
 
-.footer-logo {
+.footer-logo-studio {
     color: #f4f4fd;
-
 }
 .footer-text {
     line-height: 1.5;
