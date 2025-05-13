@@ -29,8 +29,8 @@ nav span {
 .header-address {
     line-height: 1.5;
     font-style: normal;
-    letter-spacing: 0,02em;
 color: #434455;
+letter-spacing: 0.02em;
 
 }
 .header-address:hover, .header-address:focus {
